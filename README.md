@@ -3,4 +3,4 @@ integrantes
 Pedro Lucero,
 Alejandro Gonzalez,
 Laurentino Herrera,
-Ceferino Troya,
+Ceferino Troya
