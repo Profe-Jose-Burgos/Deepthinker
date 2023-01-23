@@ -2,5 +2,5 @@
 integrantes
 Pedro Lucero,
 Alejandro Gonzalez,
-Laurentino Herrera,
+Laurent Herrera,
 Ceferino Troya.
