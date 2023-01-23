@@ -1,0 +1,22 @@
+version: "3.1"
+
+stories:
+
+- story: afiliado 
+  steps:
+  - intent: saludos
+  - action: utter_saludos
+  - action: utter_afiliado
+  - intent: afirmacion
+  - action: utter_usuario
+  - intent: mi_usuario
+  - action: action_verifica_el_usuario
+  - action: utter_comprar_lista
+  - intent: deseo_comprar
+  - action: utter_producto
+  - intent: mi_producto
+  - action: action_verificap
+  - action: utter_cantidad
+  - intent: cantidad
+  - action: utter_compra
+  - action: utter_comprado
