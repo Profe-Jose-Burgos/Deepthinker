@@ -3,3 +3,10 @@ Por tanto el modelo está considerando estos dos antes de destacar las caracter�
 
 
 son 5 horas de entrenamiento :(((
+
+.
+.
+.
+
+Logramos entrenar utilizando GPU! Ahora el entrenamiento fue de ~5min. !
+Creamos un set más variado de fotos para entrenar y validar y el modelo funciona bastanten bien B)
