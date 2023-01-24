@@ -1,5 +1,5 @@
 # Deepthinker
-integrantes
+Integrantes
 Pedro Lucero,
 Alejandro Gonzalez,
 Laurent Herrera,
