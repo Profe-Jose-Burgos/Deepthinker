@@ -1,0 +1,16 @@
+version: "3.1"
+
+stories:
+
+- story: compra productos 
+  steps:
+  - intent: saludos
+  - action: utter_saludos
+  - action: utter_lista
+  - action: utter_producto
+  - intent: mi_producto
+  - action: action_obtiene_producto
+  - action: action_verifica_el_producto
+  - action: utter_factura
+  - action: utter_comprado
+  

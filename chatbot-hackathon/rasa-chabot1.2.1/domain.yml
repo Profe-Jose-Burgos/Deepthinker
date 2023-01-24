@@ -1,0 +1,61 @@
+version: "3.1"
+
+intents:
+  - saludos
+  - despedidas
+  - afirmacion
+  - negacion
+  - desconocido
+  - cantidad
+  - mi_producto
+  
+   
+entities:
+  - product
+  - cantidad
+
+forms:
+  product_form:
+    required_slots:
+    - product
+    - cantidad 
+slots:
+  productos:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: product
+      conditions:
+      - active_loop: productos_form
+        requested_slot: productos
+responses:
+  utter_saludos:
+  - text: "Bienvenido al asistente virtual de Ventas de DeepThinkers"
+   
+  utter_lista:
+  - text: "lista de productos:"
+    image: "https://imgur.com/a/Booh6hM"
+
+  utter_producto:
+  - text: "Inserte el nombre del producto que quiera comprar"
+
+  utter_compra:
+  - text: "Usted compro {productos} "
+
+  utter_factura:
+  - text: "Aqui esta tu factura"
+    image: "https://i.imgur.com/Jitz1Hu.png"
+  
+  utter_comprado:
+  - text: "gracias por su compra, adios"
+
+actions:
+- action_verifica_el_producto
+- action_obtiene_producto
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+
