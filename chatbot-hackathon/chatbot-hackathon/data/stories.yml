@@ -1,0 +1,26 @@
+version: "3.1"
+
+stories:
+
+- story: interactive_story_1
+  steps:
+  - intent: saludos
+  - action: utter_saludos
+  - action: utter_afiliado
+  - intent: afirmacion
+  - action: simple_form
+  - active_loop: simple_form
+  - slot_was_set:
+    - requested_slot: usuarios
+  - slot_was_set:
+    - usuarios: '2345'
+  - slot_was_set:
+    - requested_slot: productos
+  - slot_was_set:
+    - productos: manzana
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_orden
+  - action: utter_comprado
+  
