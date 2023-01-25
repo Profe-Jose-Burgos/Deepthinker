@@ -1,10 +1,10 @@
 # DeepThinkers
 
-1.	Ceferino Troya
-2.	Pedro Lucero
-3.	Laurent Herrera
-4.	Alejandro González
-5.	Nicole Valdés
+1.	Ceferino Troya.
+2.	Pedro Lucero.
+3.	Laurent Herrera.
+4.	Alejandro González.
+5.	Nicole Valdés.
 
 ## Descripción de Proyecto
 •	Nuestro proyecto es una solución tecnológica de chatbot, reconocimiento facial y algoritmo de recomendación, que en conjunto servirán para asociarlos a una página web para empezar a realizar ventas al desplegar la misma.
