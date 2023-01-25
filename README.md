@@ -17,11 +17,15 @@
 •	Lanzar nuestra solución de software al mercado, para que las empresas puedan optar por adquirir la tecnología y pasar a ser parte de nuestros clientes.
 
 ## Características
-•	Fácil de adaptar a la empresa
-•	Flexible
-•	Optimizable
-•	Bajo acoplamiento
-•	Alta cohesión
+•	Fácil de adaptar a la empresa.
+
+•	Flexible.
+
+•	Optimizable.
+
+•	Bajo acoplamiento.
+
+•	Alta cohesión.
 
 ## Funciones
 •	Prototipo web: Creamos un prototipo web para demostrar la funcionalidad completa enlazada a nuestras tecnologías de I.A.
