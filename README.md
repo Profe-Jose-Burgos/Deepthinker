@@ -35,3 +35,22 @@
 •	Algoritmo de recomendación: Estudiamos y almacenamos los comportamientos de nuestros usuarios para generar recomendaciones personalizadas; impulsando así las ventas.
 
 •	Algoritmo de reconocimiento facial: Implementamos un algoritmo de reconocimiento facial, para que los usuarios puedan acceder a la página web utilizando su rostro.
+
+## Capturas y Evidencia
+Chatbot.
+![image](https://user-images.githubusercontent.com/109012119/214630286-f344ac03-add1-48aa-b245-64ab38d7cba1.png)
+
+Reconocimiento facial.
+![image](https://user-images.githubusercontent.com/109012119/214630630-55fa1e6d-fefa-48cf-8c2b-d8774ed5daa6.png)
+
+![image](https://user-images.githubusercontent.com/109012119/214630698-595a8e40-50be-4664-8da9-5d8cf7897f53.png)
+
+![image](https://user-images.githubusercontent.com/109012119/214630748-b0c97693-d881-489f-b509-d5f97a479a70.png)
+
+![image](https://user-images.githubusercontent.com/109012119/214630784-ba7bc330-140f-4f63-8b41-f38ec0f964e2.png)
+
+
+
+
+
+
