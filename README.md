@@ -1,4 +1,4 @@
-##DeepThinkers
+#DeepThinkers
 
 1.	Ceferino Troya
 2.	Pedro Lucero
